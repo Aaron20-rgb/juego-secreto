@@ -1,5 +1,5 @@
-let númerosecreto = generarnúmerosecreto();
-let intentos = 1
+let númerosecreto = 0;
+let intentos = 0
 let listadenumerossorteados = []
 let numeromaximo = 10
 
